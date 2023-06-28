@@ -186,8 +186,6 @@
 <!-- CONTACT -->
 ## 联系我们
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+![](images/contact.jpg)
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
