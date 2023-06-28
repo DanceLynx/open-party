@@ -1,0 +1,1 @@
+import{H as e}from"./index.134bed81.js";function t(t){return e.get({url:"/knowledge/lists",data:t})}function a(t){return e.get({url:"/knowledge/cates",data:t})}function n(t){return e.get({url:"/knowledge/detail",data:t})}export{n as a,a as b,t as g};

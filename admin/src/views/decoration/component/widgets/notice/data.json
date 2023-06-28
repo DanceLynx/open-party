@@ -1,0 +1,108 @@
+[
+    {
+        "title": "搜索",
+        "name": "search",
+        "disabled": 1,
+        "content": {},
+        "styles": {}
+    },
+    {
+        "title": "首页轮播图",
+        "name": "banner",
+        "content": {
+            "enabled": 1,
+            "data": [
+                {
+                    "image": "/resource/image/adminapi/default/banner01.png",
+                    "name": "",
+                    "link": {
+                        "path": "/pages/index/index",
+                        "name": "商城首页",
+                        "type": "shop"
+                    }
+                },
+                {
+                    "image": "/resource/image/adminapi/default/banner02.png",
+                    "name": "",
+                    "link": {}
+                }
+            ]
+        },
+        "styles": {}
+    },
+    {
+        "title": "导航菜单",
+        "name": "nav",
+        "content": {
+            "enabled": 1,
+            "data": [
+                {
+                    "image": "/resource/image/adminapi/default/nav01.png",
+                    "name": "资讯中心",
+                    "link": {
+                        "path": "/pages/news/news",
+                        "name": "文章资讯",
+                        "type": "shop"
+                    }
+                },
+                {
+                    "image": "/resource/image/adminapi/default/nav02.png",
+                    "name": "我的收藏",
+                    "link": {
+                        "path": "/pages/collection/collection",
+                        "name": "我的收藏",
+                        "type": "shop"
+                    }
+                },
+                {
+                    "image": "/resource/image/adminapi/default/nav03.png",
+                    "name": "个人设置",
+                    "link": {
+                        "path": "/pages/user_set/user_set",
+                        "name": "个人设置",
+                        "type": "shop"
+                    }
+                },
+                {
+                    "image": "/resource/image/adminapi/default/nav04.png",
+                    "name": "联系客服",
+                    "link": {
+                        "path": "/pages/customer_service/customer_service",
+                        "name": "联系客服",
+                        "type": "shop"
+                    }
+                },
+                {
+                    "image": "/resource/image/adminapi/default/nav05.png",
+                    "name": "关于我们",
+                    "link": {
+                        "path": "/pages/as_us/as_us",
+                        "name": "关于我们",
+                        "type": "shop"
+                    }
+                }
+            ]
+        },
+        "styles": {}
+    },
+    {
+        "title": "首页滚动通知",
+        "name": "notice",
+        "content": {
+            "data": [
+                {
+                    "text": ""
+                }
+            ]
+        },
+        "styles": {}
+    },
+    {
+        "id": "l84almsk2uhyf",
+        "title": "资讯",
+        "name": "news",
+        "disabled": 1,
+        "content": {},
+        "styles": {}
+    }
+]
