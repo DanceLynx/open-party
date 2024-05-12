@@ -38,7 +38,7 @@
 后台地址 :  [http://open-party.qhxgs.cn/admin](http://open-party.qhxgs.cn/admin) 账号:admin123 密码:admin123
 
 项目地址 : [点击进入](https://gitee.com/it-lynx/open-party)
-
+Java商业版：[点击进入](https://www.qhxgs.cn/party.html)
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
